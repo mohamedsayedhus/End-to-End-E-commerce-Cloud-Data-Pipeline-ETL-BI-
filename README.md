@@ -31,7 +31,8 @@ The project automates data movement across the modern data stack using an archit
 ---
 
 ## Dashboard Features
-*(Note: Replace this text with your final dashboard screenshot once uploaded to GitHub)*
+*<img width="1322" height="741" alt="Annotation 2026-07-02 095801" src="https://github.com/user-attachments/assets/b8e979d9-df06-4ecf-bedb-dbd444f788fc" />
+*
 
 The executive Power BI layout delivers insights at a glance:
 * **Top-Line KPIs:** High-level summary cards tracking *Total Net Revenue*, *Total Orders*, and *Average Order Value*.
