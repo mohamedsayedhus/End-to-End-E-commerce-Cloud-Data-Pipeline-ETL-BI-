@@ -39,18 +39,4 @@ The executive Power BI layout delivers insights at a glance:
 * **Monthly Sales Trends:** Line charts showing chronological net revenue fluctuations over time.
 * **Fulfillment Monitoring:** Clustered bar charts breaking down average shipping durations across order statuses to point out logistical delays.
 
----
 
-## How to Run Locally
-
-### 1. Prerequisites
-Ensure you have the required ODBC Driver installed on your machine for SQL Server connection.
-
-### 2. Environment Setup
-Create a `.env` file in the root directory and securely add your cloud credentials:
-```env
-BLOB_CONN_STRING="your_azure_blob_connection_string"
-DB_SERVER="your_azure_sql_server_address"
-DB_NAME="ecommerce_db"
-DB_USER="your_database_username"
-DB_PASS="your_database_password"
